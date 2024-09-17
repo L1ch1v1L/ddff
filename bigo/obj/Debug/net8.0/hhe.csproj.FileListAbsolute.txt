@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\hhe\bin\Debug\net8.0\hhe.exe
+C:\Users\student\source\repos\hhe\bin\Debug\net8.0\hhe.deps.json
+C:\Users\student\source\repos\hhe\bin\Debug\net8.0\hhe.runtimeconfig.json
+C:\Users\student\source\repos\hhe\bin\Debug\net8.0\hhe.dll
+C:\Users\student\source\repos\hhe\bin\Debug\net8.0\hhe.pdb
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.AssemblyInfo.cs
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.dll
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\refint\hhe.dll
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.pdb
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\hhe.genruntimeconfig.cache
+C:\Users\student\source\repos\hhe\obj\Debug\net8.0\ref\hhe.dll
